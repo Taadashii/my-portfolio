@@ -10,7 +10,7 @@ let theme = createTheme({
     },
   },
   typography: {
-    fontFamily: 'Helvetica',
+    fontFamily: 'Segoe UI, Arial, sans-serif',
   }
 });
 
